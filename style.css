@@ -5,3 +5,23 @@ body {
 body {
    color: #fff;
 }
+.element-container div {
+	padding-bottom: 50px;
+	background-color: orange;
+}
+.element-container2 {
+	border: 1px solid black; 
+}
+.first {
+	border: 1px solid red;
+}
+.second {
+	border: 1px solid black;
+}
+.third {
+	border: 1px solid green;
+	background-color: grey
+}
+.padding {
+	padding: 120px;
+}
